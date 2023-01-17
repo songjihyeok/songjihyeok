@@ -1,3 +1,3 @@
 - I’m currently working on greyzero (my own 1 person company) 
-- I’m currently frontend engineer
+- I’m professional frontend engineer
 - I'm good at developing web service by react

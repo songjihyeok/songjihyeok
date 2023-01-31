@@ -2,4 +2,4 @@
 - I’m professional frontend engineer
 - I'm good at developing web service by react
 - my tech blog (https://velog.io/@greyzero)
-- my freelancing kmong id (https://kmong.com/그레이제로)
+- my freelancing kmong id (https://kmong.com/@그레이제로)

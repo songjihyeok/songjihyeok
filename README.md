@@ -1,3 +1,5 @@
 - I’m currently working on greyzero (my own 1 person company) 
 - I’m professional frontend engineer
 - I'm good at developing web service by react
+- my tech blog (https://velog.io/@greyzero)
+- my freelancing kmong id (https://kmong.com/그레이제로)
